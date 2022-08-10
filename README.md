@@ -1,4 +1,5 @@
-# alpine-php-docker-devbox
+# docker-alpine-apache-php-devbox
+
 Devbox with alpine-apache2-php7 only 40MB
 
 
